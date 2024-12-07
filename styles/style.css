@@ -59,6 +59,10 @@ button {
     font-size: 18px;
 }
 
+a:hover {
+    color: #3882F6;
+}
+
 .hero-section {
     padding: 160px 0;
     display: flex;
@@ -163,4 +167,12 @@ button {
 
 .cta-text p {
     font-size: 18px;
+}
+
+footer {
+    background-color: #1F2937;
+    text-align: center;
+    color: #E5E7EB;
+    font-size: 18px;
+    padding: 40px 0;
 }
