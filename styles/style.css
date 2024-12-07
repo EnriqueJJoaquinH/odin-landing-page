@@ -134,3 +134,33 @@ button {
     font-weight: 700;
     text-align: right;
 }
+
+.cta-section {
+    padding: 120px 15%;
+}
+
+.cta-content {
+    background-color: #3882F6;
+    border-radius: 8px;
+    padding: 48px 12%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cta-content button {
+    border: 3px solid #E5E7EB;
+}
+
+.cta-text {
+    color: #E5E7EB;
+}
+
+.cta-text h2 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.cta-text p {
+    font-size: 18px;
+}
